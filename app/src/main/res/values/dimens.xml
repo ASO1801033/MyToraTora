@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hand_width">110dp</dimen>
+    <dimen name="hand_height">110dp</dimen>
+    <dimen name="layout_width">210dp</dimen>
+    <dimen name="layout_height">210dp</dimen>
+    <dimen name="comlayout_width">250dp</dimen>
+    <dimen name="comlayout_height">250dp</dimen>
+</resources>

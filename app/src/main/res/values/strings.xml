@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyToraTora</string>
+    <string name="toratora_text">とらとーらとーらとら</string>
+    <string name="back_text">戻る</string>
+    <string name="result_win">あなたの勝ちです</string>
+    <string name="result_lose">あなたの負けです</string>
+    <string name="result_draw">あいこです</string>
+    <string name="tora_text">とら</string>
+    <string name="granma_text">おばあさん</string>
+    <string name="kiyomasa_text">加藤 清正</string>
+</resources>
